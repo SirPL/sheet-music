@@ -2,7 +2,7 @@
 \language "deutsch"
 
 \paper {
-	#(set-paper-size "a4" 'landscape)
+	#(set-paper-size "letter" 'landscape)
 }
 
 \header {
@@ -33,6 +33,7 @@ manualOne = \relative c'' {
 	c16 f, g a b c d es f8 d b4 |
 	f'8 d as4 f'8 d g, f' |
 	es c g c16 d es8 c f, es' |
+	d8 b f b16 c des8 b e, des'
 }
 manualTwo = \relative es' {
 	es8 g b4 es,8 as c4( |
@@ -60,7 +61,8 @@ pedal = \relative c {
 	as,4 b es,8 es' d c |
 	d f d b es g es c |
 	d es f f, b4 r8 d |
-	f4 r8 as c,4 r8 es | g4 r8 b c, es as4 |
+	f4 r8 as c,4 r8 es |
+	g4 r8 b c, es as4 |
 	b,8 d g4 as,8 c f as( |
 	as) as, g c b b'4 as8 |
 	g b g es as c as f |
