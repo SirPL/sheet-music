@@ -93,12 +93,12 @@ pedal = \relative c {
 	c4 r8 b, a4 r8 a' |
 	b4 r8 as g4 r8 g,8 |
 	a c a f b d es f |
-	b,4 r16 d c d g,4 r16 b a b |
+	b,4 r16 d c d g,4 r16 b as b |
 	f4 g b8 b'4 as8 |
 	g b g es as c as f |
 	g as b b, es4 r8 g |
 	b4 r8 d, f4 r8 as |
-	c4 r8 es,8 f4 r8 a8 |
+	c4 r8 es,8 f4 r8 g8 |
 }
 
 \score {
