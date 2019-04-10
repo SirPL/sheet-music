@@ -1,9 +1,9 @@
 \version "2.18.2"
 \language "deutsch"
 
-%\paper {
-%	#(set-paper-size "a4" 'landscape)
-%}
+\paper {
+	#(set-paper-size "a4" 'landscape)
+}
 
 \header {
 	title = "Triosonata organowa nr 1 w Es dur"
@@ -43,7 +43,16 @@ manualTwo = \relative es' {
 }
 pedal = \relative c {
 	es4 r16 g f g c,4 r16 es d es |
-	as,4 b es,8 es' d c
+	as,4 b es,8 es' d c |
+	d f d b es g es c |
+	d es f f, b4 r8 d |
+	f4 r8 as c,4 r8 es | g4 r8 b c, es as4 |
+	b,8 d g4 as,8 c f as( |
+	as) as, g c b b'4 as8 |
+	g b g es as c as f |
+	g as b d, es c as b |
+	es, f g es b'4 r8 d |
+	es4 r8 g, b4 r8 d |
 }
 
 \score {
