@@ -41,6 +41,10 @@ manualOne = \relative c'' {
 	es8. f16 d8.\prall es16 es8 b es4( |
 	es16) d c d es d c b c8 c f4( |
 	f16) es d es f es d c des c des f es des c b |
+	c b c es des c b as b as b des c b as g |
+	as g as c b as g f des'2( |
+	des16) b c des c b as g f8 c' f4( |
+	f16) a, b c b a g f b a b des c b as g |
 }
 manualTwo = \relative es' {
 	es8 g b4 es,8 as c4( |
@@ -136,5 +140,3 @@ pedal = \relative c {
 \layout{}
 \midi{}
 }
- 
- 
