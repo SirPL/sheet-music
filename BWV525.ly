@@ -67,7 +67,7 @@ pedal = \relative c {
 	g as b d, es c as b |
 	es, f g es b'4 r8 d |
 	es4 r8 g, b4 r8 d |
-	e4 r8 g c,4 r8 e8 |
+	es4 r8 g c,4 r8 e8 |
 	f4 r8 a,8 c4 r8 e |
 	f4 r8 a8 d,4 r8 fis |
 	g4 r8 c b a b e, |
