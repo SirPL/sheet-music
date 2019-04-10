@@ -33,7 +33,14 @@ manualOne = \relative c'' {
 	c16 f, g a b c d es f8 d b4 |
 	f'8 d as4 f'8 d g, f' |
 	es c g c16 d es8 c f, es' |
-	d8 b f b16 c des8 b e, des'
+	d8 b f b16 c des8 b e, des' |
+	c16 b a g f es d c d8 b' c, a' |
+	b d f4 b,8 es g4( |
+	g16) b a g f8 es d c16 d es d c b |
+	es as, g f es g as b c b as g f b c d |
+	es8. f16 d8.\prall es16 es8 b es4( |
+	es16) d c d es d c b c8 c f4( |
+	f16) es d es f es d c des c des f es des c b |
 }
 manualTwo = \relative es' {
 	es8 g b4 es,8 as c4( |
