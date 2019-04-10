@@ -61,7 +61,15 @@ manualTwo = \relative es' {
 	g,8 b es4( es16) d c d es d c b |
 	a4 r16 a16 b c b d f es f d b d |
 	as d f es f d as d g, d' f es f d g, d' |
+	g, c es d es c g c f, c' es d es c f, c'
 	f, b d c d b f b e, b' des c des b e, b' |
+	f g a b c4( c16) f d f g es c es |
+	d4 r4 r2 | 
+	R1 |
+	es8 g b4 es,8 as c4( |
+	c16) es d c b8 as g\prall f16 g as g f es |
+	f8 f b4( b16) as g as b as g f |
+	g8 g c4( c8) f, g16 as b8 |
 }
 pedal = \relative c {
 	es4 r16 g f g c,4 r16 es d es |
@@ -83,6 +91,14 @@ pedal = \relative c {
 	f f, f' es d4 r8 d' |
 	c4 r8 c, h4 r8 h' |
 	c4 r8 b, a4 r8 a' |
+	b4 r8 as g4 r8 g,8 |
+	a c a f b d es f |
+	b,4 r16 d c d g,4 r16 b a b |
+	f4 g b8 b'4 as8 |
+	g b g es as c as f |
+	g as b b, es4 r8 g |
+	b4 r8 d, f4 r8 as |
+	c4 r8 es,8 f4 r8 a8 |
 }
 
 \score {
